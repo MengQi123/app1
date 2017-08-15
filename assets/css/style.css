@@ -1,0 +1,23 @@
+body {
+    width: 1000px;
+    height: 8000px;
+    background: #ddd;
+}
+
+#header {
+    width: 1000px;
+    height: 200px;
+    background: red;
+}
+
+#main {
+    width: 1000px;
+    height: 800px;
+    background: green;
+}
+
+#footer {
+    width: 1000px;
+    height: 200px;
+    background: yellow;
+}
